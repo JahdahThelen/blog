@@ -1,5 +1,4 @@
 # Cypress
-8 March 2023
 
 ## From the documentation
 
